@@ -18,6 +18,6 @@ app.use( express.static('public'));
 
 //Lo ultimo problema rutas angular
 
-app.listen( 3000, () => {
-    console.log('Servidor corriendo en puerto ' + 3000);
+app.listen( 8080, () => {
+    console.log('Servidor corriendo en puerto ' + 8080);
 });
